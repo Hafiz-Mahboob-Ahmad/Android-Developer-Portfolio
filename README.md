@@ -9,7 +9,7 @@ Welcome! I'm an Android Developer with over 1.5 years of hands-on experience in 
 
 ### 🚖 911Limo App – Real-Time Ride Dispatch System
 **Company:** Tecjaunt  
-**Duration:** May 2024 – Present  
+**Duration:** Oct 2024 – May 2025  
 **Description:**  
 A real-time ride-booking app with features such as ride requests, live tracking, and driver-passenger chat.
 
@@ -30,7 +30,7 @@ A real-time ride-booking app with features such as ride requests, live tracking,
 A full-featured LMS system for universities with multiple user roles.
 
 **Key Contributions:**
-- Used MVVM, Retrofit, Firebase Authentication & Firestore.
+- Used MVVM, Retrofit, Firebase & Firestore.
 - Real-time database management and secure role-based login.
 - Performance debugging with Android Studio, API testing via Postman.
 
