@@ -23,6 +23,22 @@ A real-time ride-booking app with features such as ride requests, live tracking,
 
 ---
 
+
+### 💹 Barakah Vault App – Investment Platform  
+**Company:** Tecjaunt  
+**Duration:** Apr 2024 – Present  
+**Description:**  
+An investment management app with portfolio tracking and ROI insights.
+
+**Key Contributions:**
+- Used Kotlin, Jetpack Compose, MVVM + Repository.
+- Integrated Stripe API (non-payment logic), Retrofit, Firebase Cloud Messaging.
+- Used Coil for efficient image handling, Hilt for DI.
+
+📍 *Private repository – Code available on request.*
+
+---
+
 ### 🎓 Knowroo – University Management Portal  
 **Company:** Tecjaunt  
 **Duration:** May 2024 – Dec 2024  
@@ -62,21 +78,6 @@ A mobile e-commerce app for browsing and purchasing organic products.
 - Developed UI in Kotlin & XML using MVVM + Repository Pattern.
 - API integration and testing with Postman.
 - Focused on clean, maintainable code and frontend performance.
-
-📍 *Private repository – Code available on request.*
-
----
-
-### 💹 Barakah Vault App – Investment Platform  
-**Company:** Tecjaunt  
-**Duration:** Apr 2024 – Present  
-**Description:**  
-An investment management app with portfolio tracking and ROI insights.
-
-**Key Contributions:**
-- Used Kotlin, Jetpack Compose, MVVM + Repository.
-- Integrated Stripe API (non-payment logic), Retrofit, Firebase Cloud Messaging.
-- Used Coil for efficient image handling, Hilt for DI.
 
 📍 *Private repository – Code available on request.*
 
