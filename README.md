@@ -9,7 +9,7 @@ Welcome! I'm an Android Developer with over 1.5 years of hands-on experience in 
 
 ### 🚖 911Limo App – Real-Time Ride Dispatch System
 **Company:** Tecjaunt  
-**Duration:** Oct 2024 – Present  
+**Duration:** May 2024 – Present  
 **Description:**  
 A real-time ride-booking app with features such as ride requests, live tracking, and driver-passenger chat.
 
